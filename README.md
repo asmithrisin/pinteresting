@@ -1,6 +1,6 @@
-# One Month Rails
+# OneMonth Rails
 
-This is the pinteresing sample application for
+This is the oaktresting sample application for
 [*One Month Rails*] (http:onemonthrails.com)
 
 by Adam SR
